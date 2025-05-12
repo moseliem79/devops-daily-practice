@@ -1,0 +1,34 @@
+# Docker Learning Progress - 2025-05-12
+
+Today, I continued learning about Docker and applied some key concepts.
+
+## What I Learned:
+
+### 1. Docker Basics
+- Learned the fundamentals of **Docker** including containers, images, and Dockerfile basics.
+- Understood the role of **Docker** in ensuring consistency across different environments.
+
+### 2. Dockerfile Instructions
+- Experimented with basic **Dockerfile** commands such as `FROM`, `RUN`, `COPY`, and `CMD`.
+- Created a simple Dockerfile to set up a Python environment.
+
+### 3. Docker Compose
+- Learned about **Docker Compose** and how it is used to define and run multi-container Docker applications using a YAML configuration file.
+- Wrote a sample `docker-compose.yml` file for a web app with an NGINX container.
+
+### 4. Docker Networking
+- Explored different Docker networking modes like `bridge`, `host`, and `none`.
+
+### 5. Docker Volumes
+- Learned how to use **volumes** to persist data across container restarts, which is crucial for handling persistent data in applications.
+
+### 6. Docker Registry
+- Discovered how to interact with Docker registries, including pushing and pulling images to/from Docker Hub.
+
+## Next Steps:
+- Continue exploring Docker Swarm and Kubernetes for container orchestration.
+- Start integrating Docker with a Rust-based backend and React frontend project.
+
+---
+
+This document helps me keep track of my progress and updates in learning Docker. I plan to continue adding updates as I learn more.
