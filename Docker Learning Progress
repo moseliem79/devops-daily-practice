@@ -3,7 +3,7 @@
 Today, I continued learning about Docker and applied some key concepts.
 
 ## What I Learned:
-
+------------
 ### 1. Docker Basics
 - Learned the fundamentals of **Docker** including containers, images, and Dockerfile basics.
 - Understood the role of **Docker** in ensuring consistency across different environments.
